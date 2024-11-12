@@ -1,8 +1,8 @@
 # Miguel Alejandro Vega Tornero
 
-**Aspiring Designer & Frontend Developer | Student**
+**Aspiring Fullstack Developer | Engineering Student**
 
-## About Momo
+## About Me
 
 Hello! I’m Miguel Alejandro Vega Tornero, a student and an aspiring designer and frontend developer passionate about building interactive and visually appealing user interfaces. I’m starting my journey in software development, focusing on frontend technologies and aiming to develop fullstack skills. I am particularly interested in creating smooth user experiences and working on meaningful projects, with the goal of eventually working in an agency or as a freelancer.
 
