@@ -14,19 +14,10 @@ As a student, I am continually learning and building up my skill set. Here’s w
 - **UI Design**: Skilled in Figma and Adobe XD.
 - **UX Principles**: Exploring user-centered design practices to create intuitive and effective interfaces.
 - **Basic Backend**: Familiar with basic server concepts and exploring fullstack development.
-
-## Projects
-
-I’m actively working on personal projects to apply my skills and expand my portfolio. Some examples include:
-
-1. **Personal Portfolio Website**: A showcase of my design and coding work.
-2. **Interactive UI Components**: Experiments with reusable, accessible components.
-3. **Responsive Web Designs**: Projects focusing on mobile-first, responsive layouts.
-
 ## Learning Path
 
 My current areas of study and improvement:
 
-1. Deepening my knowledge of **JavaScript and Vue.js**.
+1. Deepening my knowledge of **JavaScript,React, Vue.js**.
 2. Exploring **fullstack development** by adding backend skills.
 3. Enhancing **UX/UI design skills** with more advanced Figma workflows.
