@@ -1,23 +1,27 @@
 # Miguel Alejandro Vega Tornero
-
-**Aspiring Fullstack Developer | Engineering Student**
+**Computer Engineering Student | Data Analytics and BI Focus**
 
 ## About Me
 
-Hello! I’m Miguel Alejandro Vega Tornero, a student and an aspiring designer and frontend developer passionate about building interactive and visually appealing user interfaces. I’m starting my journey in software development, focusing on frontend technologies and aiming to develop fullstack skills. I am particularly interested in creating smooth user experiences and working on meaningful projects, with the goal of eventually working in an agency or as a freelancer.
+I am a Computer Engineering student focused on **data analysis, reporting, and visualization**.  
+I work with **Power BI, Python, and SQL** to clean, organize, and present information in a clear way.  
+I enjoy creating dashboards and reports that help teams understand their data and make informed decisions.
 
 ## Skills
 
-As a student, I am continually learning and building up my skill set. Here’s what I am currently focused on:
+- **Data Analysis**: Python (Pandas, NumPy), SQL (PostgreSQL)  
+- **Visualization & Reporting**: Power BI, Excel (Pivot Tables, Formulas, Charts)  
+- **Programming**: Python (scikit-learn), SQL Queries  
+- **Tools**: Git, GitHub  
+- **Soft Skills**: Problem-Solving, Team Collaboration, Technical Documentation  
 
-- **Frontend Development**: Proficient in HTML, CSS, JavaScript, and learning Vue.js.
-- **UI Design**: Skilled in Figma and Adobe XD.
-- **UX Principles**: Exploring user-centered design practices to create intuitive and effective interfaces.
-- **Basic Backend**: Familiar with basic server concepts and exploring fullstack development.
+## Projects
+
+- **Retail Sales Analytics Dashboard** — Processed data with Pandas, built interactive Power BI dashboards, implemented basic sales forecasting using linear regression.  
+- **Medical Management System** — Designed PostgreSQL database, cleaned data with Python, created Figma wireframes for reporting interface.
+
 ## Learning Path
 
-My current areas of study and improvement:
-
-1. Deepening my knowledge of **JavaScript,React, Vue.js**.
-2. Exploring **fullstack development** by adding backend skills.
-3. Enhancing **UX/UI design skills** with more advanced Figma workflows.
+- Advanced Power BI and DAX  
+- Statistical modeling with Python  
+- Data integration for BI solutions  
